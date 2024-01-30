@@ -3,7 +3,8 @@
 Here are some of my work samples:  
 
 ## Order Service with Pharmacy Integration (Nest.js + Swagger + Jest + GitHub Action)
-Version 0.0.1 is simulating a server served as multiple pharmacy integrations using abstract class
+https://github.com/tommyttf/pharmacy-order-server  
+Version 0.0.1 is simulating a server served as multiple pharmacy integrations using abstract class  
 Version 0.1.0 is a server to call the integrations for ordering
 
 ## Student Result Management System (Next.js + tRPC + Prisma)
